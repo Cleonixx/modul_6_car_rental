@@ -65,18 +65,6 @@ flutter run -d emulator-id     # Android Emulator
 flutter run -d simulator       # iOS Simulator
 ```
 
-### 4. Build untuk Production
-```bash
-# Android
-flutter build apk
-
-# iOS
-flutter build ios
-
-# Web
-flutter build web
-```
-
 ## 📱 Cara Penggunaan
 
 1. **Membuka Aplikasi**: Jalankan aplikasi menggunakan perintah `flutter run`
