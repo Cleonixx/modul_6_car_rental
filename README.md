@@ -10,8 +10,6 @@ Aplikasi Car Rental adalah sebuah aplikasi mobile Flutter yang dirancang untuk m
 - [Cara Penggunaan](#-cara-penggunaan)
 - [Struktur Project](#-struktur-project)
 - [Dependencies](#-dependencies)
-- [Kontribusi](#-kontribusi)
-- [License](#-license)
 
 ## ✨ Fitur Utama
 
