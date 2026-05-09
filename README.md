@@ -67,8 +67,8 @@ flutter run -d simulator       # iOS Simulator
 
 1. **Membuka Aplikasi**: Jalankan aplikasi menggunakan perintah `flutter run`
 2. **Browse Kendaraan**: Lihat daftar kendaraan yang tersedia
-3. **Pesan Kendaraan**: Pilih kendaraan dan isi form booking
-4. **Kelola Pesanan**: Lihat dan kelola pesanan Anda di bagian profil
+3. **Kelola Kendaraan**: Pilih kendaraan dan isi form booking
+4. **Role Based Access Control**: Perbedaan hak akses fitur setiap role
 5. **Penyimpanan Data**: Data disimpan secara lokal di device menggunakan SharedPreferences
 
 ## 📁 Struktur Project
