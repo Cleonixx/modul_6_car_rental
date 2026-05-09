@@ -55,6 +55,10 @@ flutter pub get
 # Run di emulator/device yang sudah tersedia
 flutter run
 
+# Untuk mempeprcepat run projek bisa menggunakan
+flutter run -d web-server
+# Nanti bakal muncul URL tinggal buka di browser
+
 # Atau untuk platform tertentu
 flutter run -d chrome          # Web
 flutter run -d emulator-id     # Android Emulator
