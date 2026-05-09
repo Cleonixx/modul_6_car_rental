@@ -15,12 +15,10 @@ Aplikasi Car Rental adalah sebuah aplikasi mobile Flutter yang dirancang untuk m
 
 ## ✨ Fitur Utama
 
-- ✅ Browsing daftar kendaraan
-- ✅ Pemesanan kendaraan (booking)
-- ✅ Manajemen profil pengguna
+- ✅ Search daftar kendaraan
+- ✅ Refresh Token
 - ✅ Penyimpanan data lokal dengan SharedPreferences
 - ✅ Integrasi API untuk data real-time
-- ✅ UI responsif dan modern
 
 ## 📦 Requirements
 
@@ -104,71 +102,7 @@ Project ini menggunakan dependencies berikut:
 
 Untuk melihat semua dependencies, cek file `pubspec.yaml`.
 
-## 🛠️ Development
 
-### Menjalankan Tests
-```bash
-flutter test
-```
-
-### Code Analysis
-```bash
-flutter analyze
-```
-
-### Format Code
-```bash
-dart format .
-```
-
-### Rebuild Generated Files (jika ada)
-```bash
-flutter pub run build_runner build
-```
-
-## 🤝 Kontribusi
-
-Kami menerima kontribusi dari siapa saja! Berikut cara berkontribusi:
-
-1. **Fork** repository ini
-2. Buat branch fitur baru: `git checkout -b feature/AmazingFeature`
-3. Commit perubahan Anda: `git commit -m 'Add some AmazingFeature'`
-4. Push ke branch: `git push origin feature/AmazingFeature`
-5. Buat **Pull Request**
-
-### Panduan Kontribusi:
-- Ikuti dart style guide
-- Tambahkan tests untuk fitur baru
-- Update documentation jika perlu
-- Pastikan code Anda tidak melanggar lint rules
-
-## 🐛 Melaporkan Bug
-
-Jika menemukan bug, silakan buat issue dengan informasi:
-- Deskripsi bug
-- Langkah untuk reproduce
-- Expected behavior
-- Actual behavior
-- Screenshots (jika relevan)
-
-## 📖 Referensi Tambahan
-
-- [Flutter Documentation](https://docs.flutter.dev/)
-- [Dart Documentation](https://dart.dev/guides)
-- [SharedPreferences Package](https://pub.dev/packages/shared_preferences)
-- [HTTP Package](https://pub.dev/packages/http)
-
-## 📞 Kontak & Support
-
-Jika ada pertanyaan, silakan:
-- Buka issue di repository ini
-- Hubungi: [@HarsaIlham](https://github.com/HarsaIlham)
-
-## 📄 License
-
-Project ini open source dan tersedia di bawah lisensi yang ditentukan. Lihat file LICENSE untuk detail lebih lanjut.
-
----
 
 **Dibuat oleh:** [HarsaIlham](https://github.com/HarsaIlham)  
 **Dibuat pada:** 2026  
